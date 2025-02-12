@@ -1,0 +1,11 @@
+.sector{
+    background-color: rgb(210, 125, 94);
+    width: 5px;
+}
+.letter{
+    background-color: rgb(238, 218, 192);
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
